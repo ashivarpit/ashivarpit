@@ -108,8 +108,6 @@ Website: https://stylehousefashions.com/
 
 Website: https://www.aihiki.ca/
 
-A business website for a Canada-based global consulting firm.
-
 ---
 
 ### 📊 Asia Research Partners LLP
@@ -119,16 +117,7 @@ A business website for a Canada-based global consulting firm.
 
 Website: https://asiaresearchpartners.com/
 
-A website for a global market research and business intelligence organization.
-
 ---
-
-### 🧬 Archoral
-
-**Technology:** HTML, CSS, JavaScript, jQuery, Bootstrap
-**Role:** Designer
-
-An online genealogy and archiving platform for managing family history, photos, videos, audio, documents, notes and stories.
 
 ---
 
@@ -138,8 +127,6 @@ An online genealogy and archiving platform for managing family history, photos, 
 **Role:** Designer
 
 Website: https://scignal.com/
-
-A media and telecommunications website covering satellite television, IPTV, streaming video, fiber broadband and entertainment production.
 
 ---
 
